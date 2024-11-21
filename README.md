@@ -53,7 +53,7 @@
 
 ---
 
-### 5. **Herbal Formula Notes**
+### 5. **TCM Herbal Formula Notes**
 
 This project is a personal note-taking web app built with **JavaScript**, **Python**, and **JSON**. It dynamically loads data from a **Google Sheet**, transforms it into JSON, and deploys it to **GitHub Pages** for easy access, even offline.
 
@@ -66,9 +66,6 @@ This project is a personal note-taking web app built with **JavaScript**, **Pyth
   1. **Data Fetching**: Extracts data from Google Sheets.
   2. **Transformation**: Converts the data to JSON format.
   3. **Deployment**: Publishes the app to GitHub Pages for free hosting.
-
-This tool is ideal for organizing and accessing notes anywhere, anytime.
-
 
 ---
 
