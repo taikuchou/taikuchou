@@ -1,4 +1,4 @@
-# Ken Tai - Data Analyst | Software Developer | Machine Learning Enthusiast
+# Ken Tai - Data Analyst | Software Engineer | Machine Learning Enthusiast
 
 👋 Hi, I’m Ken Tai, a Toronto-based professional with over a decade of experience in software development, data analysis, and machine learning. This GitHub repository showcases my journey, projects, and expertise in data analytics, predictive modeling, and application development.
 
