@@ -6,7 +6,7 @@
 
 ## 🛠 Technical Expertise
 - **Programming Languages**: Python, SQL, Java, C#, Swift, Objective-C, JavaScript, PHP
-- **Data Analytics & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, IBM Cognos Analytics, MS Excel
+- **Data Analytics & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, IBM Cognos Analytics, MS Excel
 - **Machine Learning**: Hands-on experience in building classification models, anomaly detection, and predictive modeling.
 - **Databases**: MySQL, SQLite, MongoDB, SQL Server, Elasticsearch
 - **Cloud Computing**: Azure AI (certified), AWS, Dockerized deployments
