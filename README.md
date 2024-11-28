@@ -27,7 +27,7 @@
 - **Description**: Built a movie consultation system using Retrieval-Augmented Generation (RAG) to answer user queries with accurate, context-relevant information from a movie dataset.
 - **Tools**: Python, Docker, ElasticSearch, Gemma2 2b, multi-qa-MiniLM-L6-cos-v1.
 - **Outcome**: Delivered 88% relevance in query responses, providing a reliable and efficient tool for movie-related information retrieval.
-- 
+
 ---
 
 ### 3. **Neighborhood Crime Analysis Dashboard**
