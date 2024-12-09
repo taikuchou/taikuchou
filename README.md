@@ -16,28 +16,35 @@
 
 ## 📂 Featured Projects
 
-### 1. **Diabetes Prediction Model**
+### 1. **Car Price Prediction**
+- **Description**: Built and deployed a regression model to predict car price.
+- **Tools**: Python, Pandas, Numpy, Regression, Docker, XGBoost, GridSearchCV and Streamlit.
+- **Outcome**: Created a deployable web application for predictions.
+
+---
+
+### 2. **Diabetes Prediction Model**
 - **Description**: Built and deployed a classification model to predict diabetes likelihood.
-- **Tools**: Python, Pandas, Logistic Regression, Docker.
+- **Tools**: Python, Pandas, Numpy, Logistic Regression, Docker.
 - **Outcome**: Created a deployable web service for predictions.
 
 ---
 
-### 2. **A movie consultation system with RAG**
+### 3. **A movie consultation system with RAG**
 - **Description**: Built a movie consultation system using Retrieval-Augmented Generation (RAG) to answer user queries with accurate, context-relevant information from a movie dataset.
 - **Tools**: Python, Docker, ElasticSearch, Gemma2 2b, multi-qa-MiniLM-L6-cos-v1.
 - **Outcome**: Delivered 88% relevance in query responses, providing a reliable and efficient tool for movie-related information retrieval.
 
 ---
 
-### 3. **Neighborhood Crime Analysis Dashboard**
+### 4. **Neighborhood Crime Analysis Dashboard**
 - **Description**: Analyzed Toronto neighborhoods' crime rates and built an interactive dashboard.
 - **Tools**: Python, Jupyter Notebook, IBM Cognos Analytics.
 - **Outcome**: Provided actionable insights for stakeholders to assist in decision-making.
 
 ---
 
-### 4. **Development of Cram School System**
+### 5. **Development of Cram School System**
 - **Components**:
   - **Client Application (JavaFX)**: Offline tutorial videos with anti-copy protection, learning progress tracking, and note-taking.
   - **Administration Tool (Command-line Java App)**: Simplified configuration for USB-based distribution with validation checks.
@@ -49,7 +56,7 @@
 
 ---
 
-### 5. **Hospital iPad Apps Maintenance for Doctors, Nurses, and Emergency Rooms**
+### 6. **Hospital iPad Apps Maintenance for Doctors, Nurses, and Emergency Rooms**
 - **Components**:
   - **iPad OS App**: Resolved bugs, added new features, and ensured compatibility with iOS upgrades.
   - **Middleware Tier (Python, Django, CentOS)**: Integrated with PACS system, standardized JSON data, and added caching and logging mechanisms.
@@ -60,7 +67,7 @@
 
 ---
 
-### 6. **TCM Herbal Formula Notes**
+### 7. **TCM Herbal Formula Notes**
 
 This project is a personal note-taking web app built with **JavaScript**, **Python**, and **JSON**. It dynamically loads data from a **Google Sheet**, transforms it into JSON, and deploys it to **GitHub Pages** for easy access, even offline.
 
