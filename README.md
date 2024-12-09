@@ -16,7 +16,7 @@
 
 ## 📂 Featured Projects
 
-### 1. **Car Price Prediction**
+### 1. **Car Price Prediction Model**
 - **Description**: Built and deployed a regression model to predict car price.
 - **Tools**: Python, Pandas, Numpy, Regression, Docker, XGBoost, GridSearchCV and Streamlit.
 - **Outcome**: Created a deployable web application for predictions.
