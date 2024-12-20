@@ -10,7 +10,7 @@
 - **Machine Learning**: Hands-on experience in building regression/classification models, predictive modeling, and LLM RAG System.
 - **Databases**: MySQL, SQLite, MongoDB, SQL Server, Elasticsearch
 - **Cloud Computing**: Azure AI (certified), AWS, Dockerized deployments
-- **Web & Mobile Development**: Full-stack expertise using ASP.NET MVC, .NET Core, Java Spring, Node.js, and mobile frameworks like SwiftUI and Kotlin.
+- **Web & Mobile Development**: Full-stack expertise using ASP.NET MVC, .NET Core, Java Spring, Struts, Node.js, Django and mobile frameworks like SwiftUI and Kotlin.
 
 ---
 
