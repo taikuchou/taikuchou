@@ -85,8 +85,9 @@ This project is a personal note-taking web app built with **JavaScript**, **Pyth
 
 
 ## 📜 Certifications
-- **Microsoft Azure AI Fundamentals** (Oct 2024)
+- **AWS Certified AI Practitioner Certificate** (Dec 2024)
 - **IBM Data Analyst Professional Certificate** (Nov 2024)
+- **Microsoft Azure AI Fundamentals Certificate** (Oct 2024)
 - **Junior Data Analyst Program** (NPower Canada, Dec 2024)
 
 ---
